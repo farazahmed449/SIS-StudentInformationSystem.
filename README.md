@@ -50,8 +50,11 @@ This project was developed to manage student records in a desktop application.
 
 ## **Screenshots**
 
-<img width="789" height="436" alt="Screenshot 2025-12-27 013826" src="https://github.com/user-attachments/assets/f341717f-9ab8-4a5b-b629-080282afede4" />
+<img width="720" height="584" alt="Screenshot 2025-12-27 013758" src="https://github.com/user-attachments/assets/172444e5-c070-44ed-90f0-e24ce98d194d" />
 
+<img width="789" height="436" alt="Screenshot 2025-12-27 013826" src="https://github.com/user-attachments/assets/42e583fe-5a3f-4a0b-a34f-8e4d194140ec" />
+
+<img width="1919" height="1009" alt="Screenshot 2025-12-27 012604" src="https://github.com/user-attachments/assets/b2b7c631-5be5-4a8f-a981-da5a91f28f5e" />
 
 ---
 
